@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the proceedings of thirteen Christian kings, princes, and dukes, and the present state and condition of the King of Scots: with their summons to all Christendom, for the raising of three hundred thousand horse and foot, under the command of Prince Philip, the third son to the Queen of Bohemia. And the King of Scots message to the Emperor of Germany, and the princes of Italy; sent by the Lord Wilmot: with their royal answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82227</idno>
+            <idno type="STC">Wing D754</idno>
+            <idno type="STC">Thomason E656_11</idno>
+            <idno type="STC">ESTC R206605</idno>
+            <idno type="EEBO-CITATION">99865724</idno>
+            <idno type="PROQUEST">99865724</idno>
+            <idno type="VID">117973</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117973)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the proceedings of thirteen Christian kings, princes, and dukes, and the present state and condition of the King of Scots: with their summons to all Christendom, for the raising of three hundred thousand horse and foot, under the command of Prince Philip, the third son to the Queen of Bohemia. And the King of Scots message to the Emperor of Germany, and the princes of Italy; sent by the Lord Wilmot: with their royal answer thereunto.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 15 1651"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Europe --  History --  1648-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117973:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE PROCEEDINGS OF Thirteen Chriſtian Kings, Princes, and Dukes, And the preſent ſtate and conditi<g ref="char:EOLhyphen"/>on of the King of <hi>Scots:</hi>
+            </p>
+            <p>With their Summons to all Chriſtendom, for the raiſing of Three Hundred Thouſand Horſe and Foot, under the command of Prince <hi>Philip,</hi> the third Son to the Queen of <hi>Bohemia.</hi>
+            </p>
+            <p>And the King of SCOTS Meſſage to the Emperor of Germany, and the Princes of Ita<g ref="char:EOLhyphen"/>ly; ſent by the Lord <hi>Wilmot:</hi> With their Royal Anſwer thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Horton,</hi> 1652. <add>March .15. 1651.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117973:2"/>
+            <pb n="3" facs="tcp:117973:2"/>
+            <head>A DECLARATION OF THE Proceedings of 13 Kings, Princes, and Dukes, touching the preſent ſtate and condition of the King of Scots; and their Royal Edict and Summons ſent to all Chriſtendom.</head>
+            <p>THere hath been a great and imperial Coun<g ref="char:EOLhyphen"/>cel held at Munſter in Germany, by the Am<g ref="char:EOLhyphen"/>baſſadors of 13 Chriſtian Kings, Princes, and Dukes; At which Diet, they took into conſidera<g ref="char:EOLhyphen"/>tion the preſent ſtate and condition of many exiled Princes; and amongſt the reſt, a Conference aroſe touching the King of Scots; but nothing done therein (at preſent) by reaſon of other weighty and
+<pb n="4" facs="tcp:117973:3"/>emergent buſineſſes, which call them to a Work of far greater concernment; and may alſo prove fatal, if not timely prevented: For the Great Turk, and his Baſhaw have taken the field with ſeven hundred thouſand Horſe and Foot, and are reſolved (if poſſi<g ref="char:EOLhyphen"/>ble) to make a great devaſtation and inroad upon Chriſtendom this Summer: But great is the care of the Emperour of Germany, the 7 Chriſtian Princes of Italy, the Queen of Sweden, the Prince of Tran<g ref="char:EOLhyphen"/>ſilvania, and Prince Frederick of Malta, to raiſe a formidable Power, and to unite and joyn with the Venetians, both in an offenſive and defenſive War againſt the Turks; And in purſuance thereof, a League is concluding between the aforeſaid Prin<g ref="char:EOLhyphen"/>ces; who have had a large conſultation thereupon; But that which is thought moſt requiſite and feaſi<g ref="char:EOLhyphen"/>ble at preſent, is, the ſending of a Summons to all Chriſtendom, for Warlike Proviſions to be made a<g ref="char:EOLhyphen"/>gainſt the Enemies thereof; And indeed great rea<g ref="char:EOLhyphen"/>ſon have they ſo to do; for never was a more po<g ref="char:EOLhyphen"/>tent and irreſiſtable Army raiſed theſe many years, as now the Turks and Janiſaries have raiſed. Yet notwithſtanding, Prince Philip (the third Son to the Queen of Bohemia, and General to the Stases of Ve<g ref="char:EOLhyphen"/>nice) hath given them a great Overthrow neer the Iſle of Candia, and kill'd, taken, and routed about threeſcore thouſand men: This Overthrow doth
+<pb n="5" facs="tcp:117973:3"/>exceedingly retard the Enemies Deſign; and as it is a great prejudice to them, ſo it is a great advantage to Chriſtendom; And his Highneſſe Prince Philip hath embraced this opportunity; who by the aſſiſt<g ref="char:EOLhyphen"/>ance of the Divine Power, hath obtained another great Victory againſt the Janiſaries: Since which Atchievements, he is called Philip the Great; a Gen<g ref="char:EOLhyphen"/>tleman of a gallant temper, and endow'd with ex<g ref="char:EOLhyphen"/>cellent Properties and Vertues, both for prudence, wiſdom, and magnanimity of Spirit: He is even be<g ref="char:EOLhyphen"/>come as great a Terrour to the Turks, as Alexander the Great was to the Chriſtians.</p>
+            <p>The King of Scots hath ſent the Lord Wilmot with a Meſſage to the Princes of Italy, imploring Supplies and Accommodation, ſuitable to his pre<g ref="char:EOLhyphen"/>ſent Neceſſities and Condition; but, they have re<g ref="char:EOLhyphen"/>turned Anſwer, That by reaſon of the home-bred diviſions, and forreign Preparations of the Enemy in ſeverall parts againſt the Chriſtian Territories, they could not anſwer his expectation at preſent, &amp;c.</p>
+            <p>The Duke of Malta hath declared, that he will give his Royal Aſſent to the Union; and that he will raiſe forty thouſand Horfe and Foot, to joyn with the Chriſtians againſt the Turks; and in purſuance thereof hath granted a Commiſſion to Prince Fre<g ref="char:EOLhyphen"/>derick, Landgrave of Heſſe, to command in chief un<g ref="char:EOLhyphen"/>der his Highneſs Prince Philips.</p>
+            <pb n="6" facs="tcp:117973:4"/>
+            <p> By an Expreſs from Amſterdam it is certified, that the General Aſſembly of the United Provinces met at the Hague, where there was a large Debate touching the proclaiming of open Wars with Eng<g ref="char:EOLhyphen"/>land, otherwiſe to have reſtitution and ſatisfaction for all their ſhips and Goods taken: But after ma<g ref="char:EOLhyphen"/>ture deliberation touching the apparent dangers that might thereby enſue, the States of Holland gave in their poſitive Reſult, declaring, That they were reſolved (to the utmoſt of their power) to preſerve a firm League and Union with, the States of Eng<g ref="char:EOLhyphen"/>land; and to hold a fair correſpondency for the in<g ref="char:EOLhyphen"/>creaſe of free Trade and Commerce: Whereupon the States and Merchants of Zealand roſe up in great fury, diſſolved the Aſſembly, and vowed re<g ref="char:EOLhyphen"/>venge upon the Engliſh; but its thought the States General will be more prudent and wiſe then to hearken to the cryes or gruntling of the Bores; for here is a Proverb, That the Cries of the Geeſe are never heard up to Heaven.</p>
+            <p>Yet notwithſtanding, the ſpirits of many thou<g ref="char:EOLhyphen"/>ſands are much exaſperated, and great are the prepa<g ref="char:EOLhyphen"/>rations which are making throughout the United Provinces; The Merchants of Zealand have ſent 40 Commiſſioners to the States General, to treat and two hundred ſhips with Letters of Mart; ſo that
+<pb n="7" facs="tcp:117973:4"/>they are again fat down in Councel, and its concei<g ref="char:EOLhyphen"/>ved that at this Meeting, it will be reſolved, to man out about 150 Men of War at the publike charge, beſides what will be ſet forth by the Merchants, and Others, upon Letters of Mart, which (if things hold at this paſs) our Governors that are well-affected to England, will be in evident danger of utter ruine.</p>
+            <p>For great are the Conteſts between the Burgo<g ref="char:EOLhyphen"/>maſters and the Bores; for the latter doth threaten to ſequeſter their Eſtates, and bring them to a Tryall for their lives, if they will not take a courſe to defend and aſſiſt them at Sea. And ſome Tumults and Ri<g ref="char:EOLhyphen"/>ſings have already been in Zealand, Rotterdam, Dort, Delf, and at the Hague, where many were both ſlain and wounded, and amongſt the reſt fome Engliſh, which the Mutiniers chiefly aymed at, and brand them with the moſt infamous Badge of Tray<g ref="char:EOLhyphen"/>tors and Conſpirators to their Religion and Liber<g ref="char:EOLhyphen"/>ties; which they are yet to chuſe. And upon this Score, divers Engliſh Merchants are prohibited from coming upon the Exchange in Amſterdam, and o<g ref="char:EOLhyphen"/>ther places. 200 Commiſſioners have bin ſent to all the Frontier and Haven Towns, to ſee how many ſhips each Town can make ready in three weekes time: And having taken a Liſt thereof, upon their return, cauſed the ſame to be printed; wherein ap<g ref="char:EOLhyphen"/>pears the ſimilitude of a great Armado, conſiſting of
+<pb n="8" facs="tcp:117973:5"/>about 300 ſayl of ſhips, Danes, Dutch, and Ham<g ref="char:EOLhyphen"/>burgers: Beſides they talk of 200 more to be ſet forth upon Letters of Mart; but the truth is; they'l talk more by an inch of Candle in their liquor by Land, then they can perform by a whole pound, when they are in their Element at Sea. And although they build Caſtles in the Ayr, make their Accounts in Spain, and reſolve to caſt them up in England, by blocking up Dover, Sandwitch, Deal, and other Ports.</p>
+            <p>And the truth is, the Engliſh are become odious in thoſe parts, and dare not walk the ſtreets without great hazard to their per<g ref="char:EOLhyphen"/>ſons: But ſure it is, That theſe Times will not laſt alwayes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
